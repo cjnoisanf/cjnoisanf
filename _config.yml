@@ -49,7 +49,7 @@ excerpt_separator: <!-- more -->
 
 # 你的社交网络链接，它们会作为图标出现在你的网站页脚中，可选填写
 footer-links: 
-  weibo: 是一只饿死的小狼崽 #https://www.weibo.com/1919309840/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1/<thispart>
+  weibo: 是一只饿死的小狼崽 #https://www.weibo.com/1919309840/<thispart>
   behance: # https://www.behance.net/<>
   dribbble: # https://dribbble.com/<>
   email: eramaan@126.com
