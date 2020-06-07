@@ -105,7 +105,3 @@ Summary：记忆就像这座城市一般，同样被蒙上了一层浓雾，他�
 　　【TBC.】
 
 　　*牛筋草：一种生命力顽强的杂草。
-
-　　本文脑洞来源http://www.mtslash.me/forum.php?mod=viewthread&tid=79367&highlight=%BC%C5%BE%B2%C1%EB&mobile=2
-
-　　虽然坑了…但是太太写的超好大家快去看！
